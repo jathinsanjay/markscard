@@ -10,7 +10,7 @@ const Navbar = () => {
         
           <div className="md:text-2xl text-xl font-bold">SRM KTR</div>
         </div>
-        <div className="md:text-2xl text-white font-extrabold">PHD Course work Results-CT 1</div>
+        <div className="md:text-2xl text-white font-extrabold">PHD Course work Results-CT 2</div>
         <div className="md:text-2xl  font-bold">School Of computing</div>
       </div>
     </nav>
